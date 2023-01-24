@@ -2,6 +2,8 @@
 
 Chrome extension that helps speedrun Stepmaniax checkout process. These things get sold out so fast when they're dropped, that by the time you've manually refreshed, seen that it's available, add to cart, and checkout: it's already gone!
 
+(Not guaranteed to still work, last time I used this was in late 2021)
+
 ## Installation
 
 Put all the files into a single folder, then install the extension by following these instructions: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
