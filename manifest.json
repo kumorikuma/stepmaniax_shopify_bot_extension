@@ -1,0 +1,27 @@
+{
+  "name": "StepmaniaX Shopify Bot",
+  "version": "1.0",
+  "description": "Automatically refresh until the product is available and automatically adds to cart to check out",
+  "permissions": ["activeTab", "declarativeContent", "storage", "tabs", "*://*/*"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/smx_icon_16px.png",
+      "32": "images/smx_icon_32px.png",
+      "48": "images/smx_icon_48px.png",
+      "128": "images/smx_icon_128px.png"
+    }
+  },
+  "icons": {
+    "16": "images/smx_icon_16px.png",
+    "32": "images/smx_icon_32px.png",
+    "48": "images/smx_icon_48px.png",
+    "128": "images/smx_icon_128px.png"
+  },
+  "manifest_version": 2
+}
