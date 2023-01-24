@@ -1,4 +1,4 @@
-# stepmaniax_shopify_bot_extension
+# Stepmania X Speed-checkout Extension
 
 Chrome extension that helps speedrun Stepmaniax checkout process. These things get sold out so fast when they're dropped, that by the time you've manually refreshed, seen that it's available, add to cart, and checkout: it's already gone!
 
